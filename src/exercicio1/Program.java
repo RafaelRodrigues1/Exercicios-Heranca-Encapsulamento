@@ -8,7 +8,7 @@ import java.util.Scanner;
 import java.util.List;
 import java.util.ArrayList;
 
-public class Teste {
+public class Program {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         int opcao;
