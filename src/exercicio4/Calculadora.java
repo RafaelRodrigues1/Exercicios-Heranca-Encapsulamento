@@ -36,8 +36,12 @@ public abstract class Calculadora {
     
     public static Integer fatorial(Integer num){
         int aux=1;
-        for(int i=1; i<=num; i++){
-            aux *= i;
+        if(num==0){
+            return aux;
+        }else{
+            for(int i=1; i<=num; i++){
+                aux *= i;
+            }
         }
         return aux;
     }
