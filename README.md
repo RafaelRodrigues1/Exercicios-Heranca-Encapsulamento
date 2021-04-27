@@ -71,7 +71,7 @@ Crie uma classe Teste que contenha a seguinte lógica:
 	• Mostrar um novo saldo a partir de um rendimento
 	• Mostrar os dados da conta do cliente
 
-## Exercício 7
+## Exercício 8
 
 Escreva uma classe FiguraGeometrica com atributos nome e cor. Escreva	uma classe	
 Figura2D e uma classe Figura3D. Ambas classes	Figura2D e Figura3D são subclasses	
