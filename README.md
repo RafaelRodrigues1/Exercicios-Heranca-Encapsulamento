@@ -73,8 +73,33 @@ Crie uma classe Teste que contenha a seguinte lógica:
 
 ## Exercício 8
 
-Escreva uma classe FiguraGeometrica com atributos nome e cor. Escreva	uma classe	
-Figura2D e uma classe Figura3D. Ambas classes	Figura2D e Figura3D são subclasses	
+A Receita Federal possui um cadastro dos contribuintes. Cada contribuinte possui nome.
+
+Escreva um programa para calcular o imposto a ser pago para 5 contribuintes.
+
+Os contribuintes podem ser:
+
+Pessoa Jurídica
+
+O imposto corresponde a 10% da renda bruta da empresa.
+
+Pessoa física(Renda bruta, Alíquota, Parcela a deduzir)
+
+0 a 1400 0% R$0
+
+1400,01 a 2100 10% R$100
+
+2100,01 a 2800 15% R$270
+
+2800,01 a 3600 25% R$500
+
+3600,01 ou mais 30% R$700
+
+
+## Exercício 9
+
+Escreva uma classe FiguraGeometrica com atributos nome e cor. Escreva uma classe	
+Figura2D e uma classe Figura3D. Ambas classes Figura2D e Figura3D são subclasses	
 da classe FiguraGeometrica. Crie ainda as classes Circulo, Quadrado e Triangulo	
 que estendem a classe Figura2D e crie também as classes Cubo e Cilindro
 que estendem a classe Figura3D.
